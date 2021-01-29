@@ -4,8 +4,7 @@
 % Title - Program for FE Analysis of Frame.
 %-------------------------------------------------------------------%
 
-clc;
-clear;
+clc;clear;
 
 fprintf(' \nFEM ANALYSIS OF FRAME. \n\n');
 
